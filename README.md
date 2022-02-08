@@ -13,7 +13,7 @@ Skills: Dart / Flutter / Swift / SwiftUI / JS
 - 📫 How to reach me: edinjoey@gmail.com 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I'm a marvel fan 
-- 📌 Check my pinned repository out, you would love it 🤭
+- 📌 Check my pinned repositories out, you would love it 🤭
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/joeyyy688)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/josephdugbatey//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/edinjoey)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobexd.svg' alt='adobexd' height='40'>](behance.net/josephdugbatey)  
