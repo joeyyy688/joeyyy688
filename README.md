@@ -4,12 +4,16 @@ I currently design and build Mobile Applications with Flutter 💙. I'm also act
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeyyy688)
 
-https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg
-https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg
-https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg
-https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg
-https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg
-https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg
+Languages & Tools: 
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="35px">&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="35px">&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="35px">&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="35px">&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" width="35px">&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="35px">&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35px">&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/adobexd/adobexd-original.svg" width="35px">&nbsp;&nbsp;
 
 - 🔭 I’m currently mastering and working with Dart and Flutter 
 - 🌱 I’m actively learning Swift and SwiftUI 
