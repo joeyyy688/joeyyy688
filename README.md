@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Joseph
-#### I'm a Creative Mobile Engineer 📱 who's passionate about building software's and making open-source projects available and accessible to elevate and help the community. 
+#### I'm a Creative Mobile Engineer 📱 who's passion is about building software's and making open-source projects available and accessible to elevate and help the community. 
 I currently design and build Mobile Applications with Flutter 💙. I'm also actively learning Swift and Swift UI and experimenting with other Frameworks and Languages
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeyyy688)
