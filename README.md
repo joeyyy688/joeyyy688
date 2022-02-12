@@ -4,10 +4,15 @@ I currently design and build Mobile Applications with Flutter 💙. I'm also act
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeyyy688)
 
-Skills: Dart / Flutter / Swift / SwiftUI / JS
+https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg
+https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg
+https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg
+https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg
+https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg
+https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg
 
 - 🔭 I’m currently mastering and working with Dart and Flutter 
-- 🌱 I’m currently learning Swift and SwiftUI 
+- 🌱 I’m actively learning Swift and SwiftUI 
 - 👯 I’m looking to collaborate on Open-Source Flutter Projects 
 - 💬 Ask me about Flutter, Dart, UI/UX 
 - 📫 How to reach me: edinjoey@gmail.com 
