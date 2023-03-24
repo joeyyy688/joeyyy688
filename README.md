@@ -20,7 +20,7 @@ Languages & Tools:
 
 
 - 🔭 I’m currently working with Dart and Flutter 
-- 🌱 I’m actively learning Swift and SwiftUI 
+- 🌱 I’m actively learning Swift, SwiftUI, Kotlin and native Android 
 - 👯 I’m looking to collaborate on Open-Source Flutter Projects 
 - 💬 Ask me about Flutter, Dart, UI/UX 
 - 📫 How to reach me: edinjoey@gmail.com 
