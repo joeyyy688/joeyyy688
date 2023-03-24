@@ -10,6 +10,7 @@ Languages & Tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="35px">&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="35px">&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="35px">&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="35px">&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="35px">&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35px">&nbsp;&nbsp;
